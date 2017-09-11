@@ -1,2 +1,2 @@
 # makephp
-基于原生PHP的MVC框架
+基于原生PHP的轻量级MVC框架
